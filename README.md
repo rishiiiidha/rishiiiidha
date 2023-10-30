@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=rishiiiidha&style=flat-square)
+
 <div size='20px'> <h3>Hi!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> I am Rishidha Addanki, A passionate <i>Code Crafting Explorer</i>🚀</h3> 
 </div>
 
@@ -8,7 +9,8 @@
 
 - 🔭 I'm new to open source, exploring a multitude of project repositories from various organizations.
 
-### Skills 
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />  </a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />  </a>
@@ -28,7 +30,3 @@
   <h2> My Github Stats.🏆 </h2>
 
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiiiidha&theme=tokyonight" alt="Rishidha Addanki" />&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiiidha&exclude_repo=shricodev.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=tokyonight)
-
-
-
-
