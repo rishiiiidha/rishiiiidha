@@ -29,4 +29,4 @@
 </p>
   <h2> My Github Stats.🏆 </h2>
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiiiidha&theme=tokyonight" alt="Rishidha Addanki" />&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiiidha&exclude_repo=shricodev.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=tokyonight)
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiiiidha&theme=tokyonight" alt="Rishidha Addanki" />&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiiidha&exclude_repo=rishiiiidha.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=tokyonight)
