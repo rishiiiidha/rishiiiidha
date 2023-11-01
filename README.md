@@ -1,3 +1,8 @@
+[![An image of @rishiiiidha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishiiiidha)](https://holopin.io/@rishiiiidha)
+<br>
+
+<h3>My Holopin Badges <img src="https://cdn3.emoji.gg/emojis/2858-bazooka-badger-spray-gif.png" width="26px" height="26px" alt="Bazooka_Badger_Spray_Gif"></h3>
+
 ![](https://komarev.com/ghpvc/?username=rishiiiidha&style=flat-square)
 
 <div size='20px'> <h3>Hi!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> I am Rishidha Addanki, A passionate <i>Code Crafting Explorer</i>🚀</h3> 
