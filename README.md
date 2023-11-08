@@ -8,6 +8,7 @@
 <div size='20px'> <h3>Hi!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> I am Rishidha Addanki, A passionate <i>Code Crafting Explorer</i>🚀</h3> 
 </div>
 
+
 <h2> About Me: </h2>
 
 - 🌱 I’m currently learning on Python, Javascript, Jquery
