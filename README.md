@@ -34,4 +34,5 @@
   <h2> My Github Stats.🏆 </h2>
   
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiiiidha&theme=tokyonight" alt="Rishidha Addanki" />&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiiidha&exclude_repo=rishiiiidha.github.io,VoiceAI&count_private=true&hide=c,XSLT,css,scss,html&layout=compact&theme=tokyonight)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishiiiidha&theme=blueberry-duo&hide_border=true" alt="GitHub Streak" /></a>&nbsp;&nbsp;
+
