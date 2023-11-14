@@ -34,5 +34,5 @@
   <h2> My Github Stats 🏆 </h2>
   
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishiiiidha&theme=blueberry-duo&hide_border=true" alt="GitHub Streak" /></a>&nbsp;&nbsp;
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishiiiidha&theme=tokyonight-duo&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
 
