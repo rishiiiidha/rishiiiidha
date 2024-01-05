@@ -7,7 +7,7 @@
 </div>
 <h2> About Me  </h2>
 
-- 🌱 I’m currently learning on Python, Javascript, Jquery
+- 🌱 I’m currently learning on React.
 
 - 🔭 I'm new to open source, exploring a multitude of project repositories from various organizations.
 <h2>Skills </h2>
