@@ -28,6 +28,10 @@
  </p>
 <h2> Connect with me 🤝</h2>
 <p align="start"> <a href="https://www.github.com/rishiiiidha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /> </picture> </a> <a href="https://www.linkedin.com/in/rishidha-addanki" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /> </picture> </a></p>
-</p>
+<!-- </p>
   <h2> My Github Stats 🏆 </h2>
+  
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ 
 <a href="https://quine.sh/stats"><img  width="350"  src="https://stats.quine.sh/rishiiiidha/languages-over-time?theme=dark&https://quine.sh?utm_source=widgets&utm_campaign=rishiiiidha" /></a>
+ -->
