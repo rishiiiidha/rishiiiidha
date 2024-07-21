@@ -4,6 +4,9 @@
 
 
 ---
+![Badge](https://cp-logo.vercel.app/codechef/rishiiii)
+
+![Badge](https://cp-logo.vercel.app/leetcode/rissh)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
