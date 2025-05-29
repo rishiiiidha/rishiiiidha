@@ -1,4 +1,4 @@
-# <div align="center">Hi, I'm Rishidha! 👋</div>
+# <div align="center">Hi, I'm Rishidha! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></div>
 
 <div align="center">
   <em>Computer Science & Engineering @ <a href="https://www.srmap.edu.in">SRM University, AP</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em>
